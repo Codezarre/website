@@ -21,8 +21,8 @@
 		</span>
 	</article>
 	<div data-nosnippet class="hidden print:block text-left">
-		<article class="text-5xl leading-snug">
-			<h1 class="text-7xl">Codezarre's Hidden Message</h1>
+		<article class="text-xl leading-snug">
+			<h1 class="text-2xl">Codezarre's Hidden Message</h1>
 			<pre>			
 				Beautiful is better than ugly.
 				Explicit is better than implicit.
