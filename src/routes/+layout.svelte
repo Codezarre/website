@@ -25,9 +25,16 @@
 		margin: 0;
 		background-color: #030018;
 		height: 100%;
+
+		@media print {
+			background-color: white;
+		}
 	}
 
 	div {
 		background-size: min(50vw, 50vh);
+		@media print {
+			background: none;
+		}
 	}
 </style>
