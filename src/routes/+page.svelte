@@ -13,11 +13,21 @@
 			Codezarre.
 		</h1>
 		<span class="flex gap-5 justify-center">
-			<a href="/youtube"><Icon.YoutubeBrand size="30" /></a>
-			<a href="/github"><Icon.GithubBrand size="30" /></a>
-			<a href="/x"><Icon.XTwitterBrand size="30" /></a>
-			<a href="/fosstodon"><Icon.MastodonBrand size="30" /></a>
-			<a href="/discord" style="display: none"><Icon.DiscordBrand size="30" /></a>
+			<a href="/youtube" target="_blank" rel="noopener noreferrer">
+				<Icon.YoutubeBrand size="30" />
+			</a>
+			<a href="/github" target="_blank" rel="noopener noreferrer">
+				<Icon.GithubBrand size="30" />
+			</a>
+			<a href="/x" target="_blank" rel="noopener noreferrer">
+				<Icon.XTwitterBrand size="30" />
+			</a>
+			<a href="/fosstodon" target="_blank" rel="noopener noreferrer">
+				<Icon.MastodonBrand size="30" />
+			</a>
+			<a href="/discord" target="_blank" rel="noopener noreferrer" style="display: none">
+				<Icon.DiscordBrand size="30" />
+			</a>
 		</span>
 	</article>
 	<div data-nosnippet class="hidden print:block text-left">
