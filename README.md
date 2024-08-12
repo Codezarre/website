@@ -1,4 +1,4 @@
-# My bizarre website
+# codezarre.com
 
 What brought you here?
 
